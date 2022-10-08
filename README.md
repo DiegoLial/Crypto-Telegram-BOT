@@ -41,7 +41,7 @@ Crypto market stats , pump and dump coins , Tradingview pinescript , 3commas and
 * /liq
 * /pump
 * /dca
-* dump
+* /dump
 * /grid
 
 ![image](https://user-images.githubusercontent.com/106902748/194722940-0193024a-5932-4bf2-8765-f194efda7456.png)
