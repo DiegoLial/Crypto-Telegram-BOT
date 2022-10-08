@@ -40,8 +40,12 @@ Crypto market stats , pump and dump coins , Tradingview pinescript , 3commas and
 * /pump
 * /dca
 * dump
-* /gd --> **usage: (/gd BTCUSDT setup )**
+* /grid
 
+https://github.com/TZacksEG/Crypto-Telegram-BOT/blob/main/img.png?raw=true
+
+
+* /gd --> **usage: (/gd BTCUSDT setup )**
 ![img_6.png](img_6.png)
 
 
