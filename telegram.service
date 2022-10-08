@@ -1,0 +1,13 @@
+[Unit]
+Description=Zcrypto Telegram BOT
+After=multi-user.target
+
+[Service]
+# Set WorkingDirectory and ExecStart to your file paths accordingly
+WorkingDirectory=/home/zack/bot
+ExecStart=/usr/bin/python3 /home/zack/bot/main.py
+User=zack
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
