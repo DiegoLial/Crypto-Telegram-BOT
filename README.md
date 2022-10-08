@@ -48,6 +48,7 @@ Crypto market stats , pump and dump coins , Tradingview pinescript , 3commas and
 
 
 * /gd --> **usage: (/gd BTCUSDT setup )**
+
 ![image](https://user-images.githubusercontent.com/106902748/194722945-7db625f1-7f41-49cc-8174-bb8e36cf2c33.png)
 
 * /config -->  **usage: (/config sand )**
