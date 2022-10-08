@@ -32,7 +32,9 @@ Crypto market stats , pump and dump coins , Tradingview pinescript , 3commas and
 **************
 # Commands
 
-![img_5.png](img_5.png)
+![image](https://user-images.githubusercontent.com/106902748/194723004-b7f4f15c-fcc8-41c5-a13b-44548ba2d3e1.png)
+
+
 * /fear 
 * /info 
 * /top 
@@ -42,28 +44,27 @@ Crypto market stats , pump and dump coins , Tradingview pinescript , 3commas and
 * dump
 * /grid
 
-https://github.com/TZacksEG/Crypto-Telegram-BOT/blob/main/img.png?raw=true
+![image](https://user-images.githubusercontent.com/106902748/194722940-0193024a-5932-4bf2-8765-f194efda7456.png)
 
 
 * /gd --> **usage: (/gd BTCUSDT setup )**
-![img_6.png](img_6.png)
-
+![image](https://user-images.githubusercontent.com/106902748/194722945-7db625f1-7f41-49cc-8174-bb8e36cf2c33.png)
 
 * /config -->  **usage: (/config sand )**
 
-![img_7.png](img_7.png)
+![image](https://user-images.githubusercontent.com/106902748/194722953-119cd229-e41d-4283-b01e-0addeb278d01.png)
+
 * /ta --> **usage: (/ta BTCUSDT 4h )**
 
-![img_8.png](img_8.png)
+![image](https://user-images.githubusercontent.com/106902748/194722969-5e0e9401-5cac-4c41-9b7b-bdfd0c52f9e5.png)
+
 * /res --> **usage: (/res BTCUSDT 4h)**
 
-![img_9.png](img_9.png)
+![image](https://user-images.githubusercontent.com/106902748/194722976-9d049aff-e753-40df-bd93-780a28ba0c3d.png)
 
 * /pinescript **Usage : its Created from the above command ( /res ) 
 
-![img_10.png](img_10.png)
-
-![img_11.png](img_11.png)
+![image](https://user-images.githubusercontent.com/106902748/194722993-63ee4e02-6236-47cb-8349-98200d21ec9f.png)
 
 
 # How to Install ?
